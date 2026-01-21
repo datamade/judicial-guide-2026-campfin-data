@@ -1,4 +1,4 @@
-YEAR=2024
+YEAR=2026
 
 all: clean data/final/campfin-${YEAR}.json
 
