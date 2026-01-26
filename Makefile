@@ -15,14 +15,18 @@ clean:
 data/final/campfin-${YEAR}.json: data/final/campfin-${YEAR}-pretty.json
 	jq -c 'map(del(.contributions))' $< > $@
 
-data/final/campfin-${YEAR}-pretty.json: data/raw/receipts-trimmed.txt
+data/final/campfin-${YEAR}-pretty.json: data/intermediate/receipts-trimmed.txt
 	time python3 scripts/process_receipts.py $< > $@
 
-# the receipts file contains donations starting in 1994!
-# trim off the start until around the years we want
-data/raw/receipts-trimmed.txt: data/raw/receipts.txt
-	head -n 1 $< >> $@
-	tail -n +5000000 $< >> $@
+data/intermediate/receipts-trimmed.txt: data/raw/receipts-header.txt data/raw/receipts-end.txt
+	head -n 1 data/raw/receipts-header.txt >> $@
+	tail -n +2 data/raw/receipts-end.txt >> $@
 
-data/raw/receipts.txt:
-	wget -nv --no-check-certificate -O $@ "https://www.elections.il.gov/CampaignDisclosureDataFiles/Receipts.txt"
+# The receipts file contains donations starting in 1994!
+# Only fetch the last ~50MB of the file
+data/raw/receipts-end.txt:
+	curl --range -50000000 "https://www.elections.il.gov/CampaignDisclosureDataFiles/Receipts.txt" -o $@  
+
+# Fetch enough of the beginning of the file to get the CSV header
+data/raw/receipts-start.txt:
+	curl --range 0-1000 "https://www.elections.il.gov/CampaignDisclosureDataFiles/Receipts.txt" -o $@
