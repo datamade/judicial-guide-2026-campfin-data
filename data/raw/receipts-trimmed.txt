@@ -1,1 +1,0 @@
-ID	CommitteeID	FiledDocID	ETransID	LastOnlyName	FirstName	RcvDate	Amount	AggregateAmount	LoanAmount	Occupation	Employer	Address1	Address2	City	State	Zip	D2Part	Description	VendorLastOnlyName	VendorFirstName	VendorAddress1	VendorAddress2	VendorCity	VendorState	VendorZip	Archived	Country	RedactionRequested
