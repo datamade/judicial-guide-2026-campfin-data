@@ -9,7 +9,7 @@ all: clean data/final/campfin-${YEAR}.json
 clean:
 	rm -f data/final/campfin-${YEAR}.json \
 		data/final/campfin-${YEAR}-pretty.json \
-		data/raw/receipts-trimmed.txt
+		data/intermediate/receipts-trimmed.txt
 
 # condense and drop keys we don't need in prd
 data/final/campfin-${YEAR}.json: data/final/campfin-${YEAR}-pretty.json
