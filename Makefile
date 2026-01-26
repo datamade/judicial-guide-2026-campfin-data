@@ -18,8 +18,8 @@ data/final/campfin-${YEAR}.json: data/final/campfin-${YEAR}-pretty.json
 data/final/campfin-${YEAR}-pretty.json: data/intermediate/receipts-trimmed.txt
 	time python3 scripts/process_receipts.py $< > $@
 
-data/intermediate/receipts-trimmed.txt: data/raw/receipts-header.txt data/raw/receipts-end.txt
-	head -n 1 data/raw/receipts-header.txt >> $@
+data/intermediate/receipts-trimmed.txt: data/raw/receipts-start.txt data/raw/receipts-end.txt
+	head -n 1 data/raw/receipts-start.txt >> $@
 	tail -n +2 data/raw/receipts-end.txt >> $@
 
 # The receipts file contains donations starting in 1994!
