@@ -7,14 +7,69 @@
     },
     {
         "committee": "40745",
-        "totalContributions": 0,
-        "contributions": [],
-        "topDonors": []
+        "totalContributions": 2000.0,
+        "contributions": [
+            {
+                "firstName": "Lyla",
+                "lastName": "Ismael",
+                "date": "2026-01-20 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Jeweler",
+                "employer": "Lyla Ismael",
+                "zipCode": "60465"
+            },
+            {
+                "firstName": "Camilo",
+                "lastName": "Oceguera",
+                "date": "2026-01-08 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Self",
+                "zipCode": "60462"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Camilo",
+                "lastName": "Oceguera",
+                "occupation": "Attorney",
+                "employer": "Self",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60462"
+            },
+            {
+                "firstName": "Lyla",
+                "lastName": "Ismael",
+                "occupation": "Jeweler",
+                "employer": "Lyla Ismael",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60465"
+            }
+        ]
     },
     {
         "committee": "40614",
-        "totalContributions": 0,
-        "contributions": [],
-        "topDonors": []
+        "totalContributions": 3000.0,
+        "contributions": [
+            {
+                "firstName": "Linda",
+                "lastName": "Sackey",
+                "date": "2026-01-02 00:00:00",
+                "amount": 3000.0,
+                "occupation": "Circuit Judge",
+                "employer": "Circuit Court of Cook County",
+                "zipCode": ""
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Linda",
+                "lastName": "Sackey",
+                "occupation": "Circuit Judge",
+                "employer": "Circuit Court of Cook County",
+                "aggregateAmount": 3000.0,
+                "zipCode": ""
+            }
+        ]
     }
 ]
