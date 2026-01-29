@@ -6,6 +6,31 @@
         "topDonors": []
     },
     {
+        "committee": "35539",
+        "totalContributions": 1000.0,
+        "contributions": [
+            {
+                "firstName": "Ramachandra",
+                "lastName": "Villivalam",
+                "date": "2026-01-06 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Public Service",
+                "employer": "State of Illinois",
+                "zipCode": "60630"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Ramachandra",
+                "lastName": "Villivalam",
+                "occupation": "Public Service",
+                "employer": "State of Illinois",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60630"
+            }
+        ]
+    },
+    {
         "committee": "40745",
         "totalContributions": 2000.0,
         "contributions": [
@@ -69,6 +94,729 @@
                 "employer": "Circuit Court of Cook County",
                 "aggregateAmount": 3000.0,
                 "zipCode": ""
+            }
+        ]
+    },
+    {
+        "committee": "39572",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "23540",
+        "totalContributions": 4000.0,
+        "contributions": [
+            {
+                "firstName": "Laura",
+                "lastName": "Zaremba",
+                "date": "2026-01-22 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Consultant",
+                "employer": "HMA",
+                "zipCode": "33629"
+            },
+            {
+                "firstName": "Patrick",
+                "lastName": "Salvi",
+                "date": "2026-01-22 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Salvi, Schostok & Pritchard",
+                "zipCode": "60085"
+            },
+            {
+                "firstName": "Lawrence",
+                "lastName": "Suffredin",
+                "date": "2026-01-22 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Retired",
+                "employer": "None",
+                "zipCode": "60201"
+            },
+            {
+                "firstName": "Lawrence",
+                "lastName": "Suffredin",
+                "date": "2026-01-06 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Retired",
+                "employer": "None",
+                "zipCode": "60201"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Lawrence",
+                "lastName": "Suffredin",
+                "occupation": "Retired",
+                "employer": "None",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60201"
+            },
+            {
+                "firstName": "Laura",
+                "lastName": "Zaremba",
+                "occupation": "Consultant",
+                "employer": "HMA",
+                "aggregateAmount": 1000.0,
+                "zipCode": "33629"
+            },
+            {
+                "firstName": "Patrick",
+                "lastName": "Salvi",
+                "occupation": "Attorney",
+                "employer": "Salvi, Schostok & Pritchard",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60085"
+            }
+        ]
+    },
+    {
+        "committee": "40611",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40620",
+        "totalContributions": 1500.0,
+        "contributions": [
+            {
+                "firstName": "Steve",
+                "lastName": "Hardiman",
+                "date": "2026-01-07 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Public Servant",
+                "employer": "City of Chicago Public Safety",
+                "zipCode": "60637"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Steve",
+                "lastName": "Hardiman",
+                "occupation": "Public Servant",
+                "employer": "City of Chicago Public Safety",
+                "aggregateAmount": 1500.0,
+                "zipCode": "60637"
+            }
+        ]
+    },
+    {
+        "committee": "40839",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40775",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40878",
+        "totalContributions": 1000.0,
+        "contributions": [
+            {
+                "firstName": "Alan",
+                "lastName": "Isaac",
+                "date": "2026-01-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "Retired",
+                "zipCode": "34223"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Alan",
+                "lastName": "Isaac",
+                "occupation": "",
+                "employer": "Retired",
+                "aggregateAmount": 1000.0,
+                "zipCode": "34223"
+            }
+        ]
+    },
+    {
+        "committee": "40664",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40785",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40702",
+        "totalContributions": 4500.0,
+        "contributions": [
+            {
+                "firstName": "John",
+                "lastName": "Murino",
+                "date": "2026-01-13 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Lawyer",
+                "employer": "Crowell & Moring LLP",
+                "zipCode": "20815"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Houlihan",
+                "date": "2026-01-13 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Lobbyist",
+                "employer": "Drexwood Partners LLC",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "Adam",
+                "lastName": "Yanke",
+                "date": "2026-01-06 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Doctor",
+                "employer": "Midwest orthopedics at Rush",
+                "zipCode": "60657"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Adam",
+                "lastName": "Yanke",
+                "occupation": "Doctor",
+                "employer": "Midwest orthopedics at Rush",
+                "aggregateAmount": 2500.0,
+                "zipCode": "60657"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Murino",
+                "occupation": "Lawyer",
+                "employer": "Crowell & Moring LLP",
+                "aggregateAmount": 1000.0,
+                "zipCode": "20815"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Houlihan",
+                "occupation": "Lobbyist",
+                "employer": "Drexwood Partners LLC",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60611"
+            }
+        ]
+    },
+    {
+        "committee": "40666",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40752",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40736",
+        "totalContributions": 5000.0,
+        "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Roofers & Waterproofers Local 11 PAC",
+                "date": "2026-01-21 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60523"
+            },
+            {
+                "firstName": "",
+                "lastName": "Friends of Ram",
+                "date": "2026-01-21 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60659"
+            },
+            {
+                "firstName": "Donald",
+                "lastName": "Morrison",
+                "date": "2026-01-05 00:00:00",
+                "amount": 3000.0,
+                "occupation": "Attorney",
+                "employer": "Kelleher&Holland",
+                "zipCode": "60085"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Donald",
+                "lastName": "Morrison",
+                "occupation": "Attorney",
+                "employer": "Kelleher&Holland",
+                "aggregateAmount": 3000.0,
+                "zipCode": "60085"
+            },
+            {
+                "firstName": "",
+                "lastName": "Roofers & Waterproofers Local 11 PAC",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60523"
+            },
+            {
+                "firstName": "",
+                "lastName": "Friends of Ram",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60659"
+            }
+        ]
+    },
+    {
+        "committee": "40861",
+        "totalContributions": 9000.0,
+        "contributions": [
+            {
+                "firstName": "Charlie",
+                "lastName": "Devore",
+                "date": "2026-01-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Katten Muchin Rosenman LLP",
+                "zipCode": "60304"
+            },
+            {
+                "firstName": "Charlie",
+                "lastName": "Devore",
+                "date": "2026-01-17 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Katten Muchin Rosenman LLP",
+                "zipCode": "60304"
+            },
+            {
+                "firstName": "Jarrett",
+                "lastName": "Knox",
+                "date": "2026-01-16 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Attorney",
+                "employer": "Cook County States Attorney",
+                "zipCode": "60304"
+            },
+            {
+                "firstName": "Mrunil",
+                "lastName": "Champaneri",
+                "date": "2026-01-14 00:00:00",
+                "amount": 1000.0,
+                "occupation": "IT Manager",
+                "employer": "McMaster-Carr",
+                "zipCode": "60302"
+            },
+            {
+                "firstName": "Mrunil",
+                "lastName": "Champaneri",
+                "date": "2026-01-13 00:00:00",
+                "amount": 1000.0,
+                "occupation": "IT Manager",
+                "employer": "McMaster-Carr",
+                "zipCode": "60302"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Jarrett",
+                "lastName": "Knox",
+                "occupation": "Attorney",
+                "employer": "Cook County States Attorney",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60304"
+            },
+            {
+                "firstName": "Mrunil",
+                "lastName": "Champaneri",
+                "occupation": "IT Manager",
+                "employer": "McMaster-Carr",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60302"
+            },
+            {
+                "firstName": "Charlie",
+                "lastName": "Devore",
+                "occupation": "Attorney",
+                "employer": "Katten Muchin Rosenman LLP",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60304"
+            }
+        ]
+    },
+    {
+        "committee": "40704",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40651",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40644",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40731",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "36890",
+        "totalContributions": 2600.0,
+        "contributions": [
+            {
+                "firstName": "Craig",
+                "lastName": "Wimberly",
+                "date": "2026-01-22 00:00:00",
+                "amount": 2600.0,
+                "occupation": "Senior Policy Advisor",
+                "employer": "Cook County Clerk of the Circuit Court",
+                "zipCode": "60653"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Craig",
+                "lastName": "Wimberly",
+                "occupation": "Senior Policy Advisor",
+                "employer": "Cook County Clerk of the Circuit Court",
+                "aggregateAmount": 2600.0,
+                "zipCode": "60653"
+            }
+        ]
+    },
+    {
+        "committee": "40726",
+        "totalContributions": 11000.0,
+        "contributions": [
+            {
+                "firstName": "Amari",
+                "lastName": "Dawson",
+                "date": "2026-01-02 00:00:00",
+                "amount": 11000.0,
+                "occupation": "Assistant State's Attorney",
+                "employer": "Cook County State's Attorney",
+                "zipCode": "60430"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Amari",
+                "lastName": "Dawson",
+                "occupation": "Assistant State's Attorney",
+                "employer": "Cook County State's Attorney",
+                "aggregateAmount": 11000.0,
+                "zipCode": "60430"
+            }
+        ]
+    },
+    {
+        "committee": "40624",
+        "totalContributions": 6000.0,
+        "contributions": [
+            {
+                "firstName": "Bianca",
+                "lastName": "Brown",
+                "date": "2026-01-20 00:00:00",
+                "amount": 5000.0,
+                "occupation": "attorney",
+                "employer": "Pretzel and Stouffer Chartered",
+                "zipCode": "60425"
+            },
+            {
+                "firstName": "Patricia",
+                "lastName": "Holmes",
+                "date": "2026-01-09 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Riley Safer Holmes & Cancila LLP",
+                "zipCode": "60649"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Bianca",
+                "lastName": "Brown",
+                "occupation": "attorney",
+                "employer": "Pretzel and Stouffer Chartered",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60425"
+            },
+            {
+                "firstName": "Patricia",
+                "lastName": "Holmes",
+                "occupation": "Attorney",
+                "employer": "Riley Safer Holmes & Cancila LLP",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60649"
+            }
+        ]
+    },
+    {
+        "committee": "40945",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40646",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40746",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40655",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "39605",
+        "totalContributions": 0,
+        "contributions": [],
+        "topDonors": []
+    },
+    {
+        "committee": "40843",
+        "totalContributions": 2500.0,
+        "contributions": [
+            {
+                "firstName": "",
+                "lastName": "47th Ward Regular Democratic Organization",
+                "date": "2026-01-10 00:00:00",
+                "amount": 1500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60618"
+            },
+            {
+                "firstName": "Eileen",
+                "lastName": "Dordek",
+                "date": "2026-01-02 00:00:00",
+                "amount": 1000.0,
+                "occupation": "LCSW",
+                "employer": "Self-Employed",
+                "zipCode": "60625"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "",
+                "lastName": "47th Ward Regular Democratic Organization",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 1500.0,
+                "zipCode": "60618"
+            },
+            {
+                "firstName": "Eileen",
+                "lastName": "Dordek",
+                "occupation": "LCSW",
+                "employer": "Self-Employed",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60625"
+            }
+        ]
+    },
+    {
+        "committee": "40919",
+        "totalContributions": 325500.0,
+        "contributions": [
+            {
+                "firstName": "Benjamin",
+                "lastName": "Coplan + Crane",
+                "date": "2026-01-15 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60301"
+            },
+            {
+                "firstName": "",
+                "lastName": "McNabola & Associates",
+                "date": "2026-01-15 00:00:00",
+                "amount": 3000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60093"
+            },
+            {
+                "firstName": "",
+                "lastName": "Cogan & Power, P.C.",
+                "date": "2026-01-15 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60614"
+            },
+            {
+                "firstName": "",
+                "lastName": "Anderson Law Offices, PC",
+                "date": "2026-01-15 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60659"
+            },
+            {
+                "firstName": "",
+                "lastName": "Brennan Burtker LLC",
+                "date": "2026-01-15 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Scott",
+                "lastName": "Bentivenga",
+                "date": "2026-01-15 00:00:00",
+                "amount": 1500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60091"
+            },
+            {
+                "firstName": "",
+                "lastName": "Clifford Law Offices",
+                "date": "2026-01-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Mike",
+                "lastName": "Gill",
+                "date": "2026-01-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Founder/Partner",
+                "employer": "Gill Ports Hoste LLC",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "Matt",
+                "lastName": "Ports",
+                "date": "2026-01-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Founder/Partner",
+                "employer": "Gill Ports Hoste LLC",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "Peter",
+                "lastName": "Hoste",
+                "date": "2026-01-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Founder/Partner",
+                "employer": "Gill Ports Hoste LLC",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "Bill",
+                "lastName": "Ragen",
+                "date": "2026-01-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Cook County State's Attorney",
+                "zipCode": "60622"
+            },
+            {
+                "firstName": "",
+                "lastName": "Law Office of Allen N. Schwartz",
+                "date": "2026-01-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "",
+                "lastName": "Cogan & Power",
+                "date": "2026-01-15 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60126"
+            },
+            {
+                "firstName": "Renato",
+                "lastName": "Katubig",
+                "date": "2026-01-02 00:00:00",
+                "amount": 300000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "34207"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Renato",
+                "lastName": "Katubig",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 300000.0,
+                "zipCode": "34207"
+            },
+            {
+                "firstName": "Benjamin",
+                "lastName": "Coplan + Crane",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60301"
+            },
+            {
+                "firstName": "",
+                "lastName": "McNabola & Associates",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 3000.0,
+                "zipCode": "60093"
+            },
+            {
+                "firstName": "",
+                "lastName": "Cogan & Power, P.C.",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 2500.0,
+                "zipCode": "60614"
+            },
+            {
+                "firstName": "",
+                "lastName": "Anderson Law Offices, PC",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 2500.0,
+                "zipCode": "60659"
             }
         ]
     }
